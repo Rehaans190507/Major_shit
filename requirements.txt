@@ -9,3 +9,4 @@ SpeechRecognition
 pydub
 gTTS
 ollama
+pyttsx3
