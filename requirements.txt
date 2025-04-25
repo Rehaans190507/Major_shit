@@ -1,0 +1,10 @@
+Flask
+Flask-PyMongo
+flask_cors
+python-dotenv
+werkzeug
+requests
+gunicorn
+SpeechRecognition
+pydub
+gTTS
